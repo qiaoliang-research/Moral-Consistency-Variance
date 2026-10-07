@@ -1,0 +1,19 @@
+authors:
+  - family-names: Liang
+    given-names: Qiao
+cff-version: 1.2.0
+message: "If you use this research repository, please cite the published article in preferred-citation."
+title: Moral Consistency Variance
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Liang
+      given-names: Qiao
+  title: "Moral Consistency Variance: A Pilot Benchmark for Decision Stability under Moral Prompt Perturbations in Large Language Models"
+  journal: Review of Resp AI
+  volume: 1
+  issue: 2
+  start: 1
+  end: 8
+  year: 2026
+  url: https://journals.respai.de/review/article/id/20/

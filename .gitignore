@@ -1,0 +1,30 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+.venv/
+venv/
+
+.env
+.env.*
+
+*.log
+*.tmp
+*.bak
+
+.DS_Store
+Thumbs.db
+
+# Provider credential and local auth files
+application_default_credentials.json
+credentials.json
+*service-account*.json
+service_account*.json
+*.pem
+*.key
+.config/gcloud/
+.google/
+
+# Regenerated outputs
+results/reproduced/
